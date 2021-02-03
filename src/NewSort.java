@@ -19,6 +19,7 @@ public class NewSort {
 		// TODO Auto-generated method stub
 		Scanner s = new Scanner(System.in);
         System.out.print("Enter no. of elements you want in array:");
+        System.out.print("Enter:");
         int n = s.nextInt();
         int arr[] = new int[n];
         System.out.println("Enter all the elements:");
